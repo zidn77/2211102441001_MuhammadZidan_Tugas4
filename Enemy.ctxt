@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=
+comment1.target=Enemy()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=player
+comment3.target=void\ followPlayer(Player)
+comment4.params=player
+comment4.target=int\ getDistance(Player)
+numComments=5
